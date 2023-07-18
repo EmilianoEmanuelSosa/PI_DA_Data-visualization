@@ -1,3 +1,6 @@
+
+
+
 ### Data Engineer
 
 En este proyecto, nos encargamos inicialmente de las tareas de extracción, limpieza y carga de datos (ETL) para generar una estructura normalizada de los datos. Evaluamos los archivos CSV relevantes para realizar un análisis macroeconómico del sector de telecomunicaciones en Argentina.
