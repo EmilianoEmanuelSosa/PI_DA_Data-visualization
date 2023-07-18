@@ -1,5 +1,8 @@
+ESPAÑOL
 
+---
 
+Este repositorio integra todo el Proyecto de Analisis de Negocio Sobre Enacom que esta enfocado en visualizar oportunidades de de mercado y falencias sistematicas dentro del modelo de negocio propio de la empresa con , principalmente, datos relacionados a metricas tecnicas y Geografia, Cumpliendo el rol de un Data Analyst.
 
 ### Data Engineer
 
