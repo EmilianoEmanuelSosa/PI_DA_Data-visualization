@@ -34,19 +34,6 @@ Este repositorio integra todo el Proyecto de Analisis de Negocio Sobre Enacom. E
 - README.md: Archivo por donde se esta visualizando esto.
   <br></br>
 
----
-
-<br></br>
-
-### KPIs Selecionados:
-
-- Crecimiento de un 3% anual por provincia
-- Aumento de un 3% en Fibra optica
-- Crecimiento de un 5 % en accesos por cada 100 Hogares.
-  <br></br>
-
----
-
 ## Analisis:
 
 - Gracias a estos graficos se obtuve los KPIs mas relevantes:
@@ -60,12 +47,22 @@ Este repositorio integra todo el Proyecto de Analisis de Negocio Sobre Enacom. E
 - Ademas de los graficos proporcionados por pandas profiling
 - [Link de EDA deployment: ](https://eda-visualizar.onrender.com/#sample)
 
-### Se pudo ver como provincias como Buenos Aires O o Caba tienen un mayor numero de Megabytes de bajada promedio. A su vez se vieron casos como tierra del fuego con muchos accesos por cada 100 hogares pero poca tasa de descarga. Reflejando poco uso de las distintas conexiones, se debe iniciar campañas de uso de la las tecnologias.
+### Se pudo ver como provincias como Buenos Aires O o Caba tienen un mayor numero de Megabytes de bajada promedio. A su vez se vieron casos como tierra del fuego con muchos accesos por cada 100 hogares pero poca tasa de descarga. Reflejando poco uso de las distintas conexiones, se debe iniciar campañas de uso de la las tecnologias.Debido a un patron de provincias que presentan las caracteristicas de alta infraestructura pero poco uso se eligieron los siguientes Kpis:
 
 <br></br>
 
 ---
 
+<br></br>
+
+### KPIs Selecionados:
+
+- Crecimiento de un 3% anual por provincia
+- Aumento de un 3% en Fibra optica
+- Crecimiento de un 5 % en accesos por cada 100 Hogares.
+  <br></br>
+
+---
 <br></br>
 
 ## Dashboard:
