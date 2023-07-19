@@ -8,7 +8,7 @@
 
 <br></br>
 
-<div style="text-align: left; float: left;">___________________________Descripcion del Proyecto______________________________________</div>
+<div style="text-align: left; float: left;">_________________________________Descripcion del Proyecto__________________________________________</div>
 
 <br></br>
 <br></br>
