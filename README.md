@@ -1,8 +1,24 @@
-ESPAÑOL
+#### ESPAÑOL
 
 ---
 
-Este repositorio integra todo el Proyecto de Analisis de Negocio Sobre Enacom que esta enfocado en visualizar oportunidades de de mercado y falencias sistematicas dentro del modelo de negocio propio de la empresa con , principalmente, datos relacionados a metricas tecnicas y Geografia, Cumpliendo el rol de un Data Analyst.
+# Proyecto Data Analyst Enacom
+
+---
+
+<br></br>
+
+<div style="text-align: left; float: left;">___________________________________________________Descripcion del Proyecto</div>
+<div style="text-align: right; float: right;">____________________________________________________</div>
+
+<br></br>
+<br></br>
+Este repositorio integra todo el Proyecto de Analisis de Negocio Sobre Enacom. Este esta enfocado en visualizar oportunidades de mercado y falencias sistematicas dentro del modelo de negocio propio de la empresa con , principalmente, datos relacionados a metricas tecnicas y Geograficas, Cumpliendo el rol de un Data Analyst.Es decir, Hacemos un Analisis Macroeconomico del Sector de Telecomunicaciones en Argentina.
+<br></br>
+
+---
+
+## Encarpetado del Proyecto:
 
 ### Data Engineer
 
