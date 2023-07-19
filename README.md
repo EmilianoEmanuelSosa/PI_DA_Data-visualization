@@ -8,8 +8,8 @@
 
 <br></br>
 
-<div style="text-align: left; float: left;">____________________________________________Descripcion del Proyecto</div>
-<div style="text-align: right; float: right;">____________________________________________________</div>
+<div style="text-align: left; float: left;">______________________________________________Descripcion del Proyecto______________________________________________</div>
+<div style="text-align: right; float: right;"></div>
 
 <br></br>
 <br></br>
