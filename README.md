@@ -29,4 +29,9 @@ Este repositorio integra todo el Proyecto de Analisis de Negocio Sobre Enacom. E
   - Archivos_EDA: Se guardan los resultados del EDA en Formato HTML.
   - ETL.ipynb: Archivo donde realice el ETL.
   - EDA.ipynb: Archivo donde realice el EDA.
-- EDA_ET:: En esta carpeta se almacenan todos los archivos ingestados y procesados del proceso de ETL y EDA.
+- .gitignore: Este archivo ignora los archivos que no son relevantes para el proyecto pero que fueron necesarios para hacerlo.
+- display_utils.py: Archivo con clase de python, que cree para visualizar mejor los dataframes de pandas en jupyter notebook.
+- README.md: Archivo por donde se esta visualizando esto.
+  <br></br>
+
+---
