@@ -73,3 +73,9 @@ Este repositorio integra todo el Proyecto de Analisis de Negocio Sobre Enacom. E
 ### Para revelar y presentar todas estas oportunidades de desarrollo se llevara a cabo un storytelling con un dashboard
 
 - [Link del deplotment del dashboard: ](https://dashboard-emiliano-sosa-streamlit.onrender.com)
+
+<br></br>
+
+##### ********************************************************************************\_\_********************************************************************************Emiliano Sosa
+
+---
